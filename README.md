@@ -5,6 +5,7 @@
 ⚡⚡⚡
 <br />
 
+"Without a grounding in statistics, a data scientist is a data lab assistant."
 ---
 
 ### Connect with me:
